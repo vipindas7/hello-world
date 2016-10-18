@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+Hello friends
+
+
+
+Lets make a dent in the universe.
